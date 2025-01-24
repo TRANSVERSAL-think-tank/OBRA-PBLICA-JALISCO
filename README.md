@@ -3,7 +3,7 @@ Repositorio de datos públicos y abiertos.  Procesados por el equipo de TRANSVER
 
 --
 
-En este repositorio se encuentra una recopilación de datos públicos sobre obra pública en el estado de Jalico. Se recopilan los datos tal cual se accedieron por url de organismos municipales, estatales o federales. Pero también se ofrecen los mismos trabajados por el equipo de TRANSVERSAL  https://transversalthinktank.org/ para facilitar el uso y el análisis.
+En este repositorio se encuentra una recopilación de datos sobre obra pública en el estado de Jalisco. Se recopilan los datos tal cual se accedieron por urls de organismos municipales, estatales o federales. De manera abierta. Pero también se ofrecen los mismos trabajados por el equipo de TRANSVERSAL  https://transversalthinktank.org/ para facilitar el uso y el análisis.
 
 Por ejemplo, pasando y filtrando archivos json a csv o excel.
 
