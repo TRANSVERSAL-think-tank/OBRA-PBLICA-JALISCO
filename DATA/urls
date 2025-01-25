@@ -1,1 +1,2 @@
-urls = []
+#Lista de urls públicas de donde descargamos los datos oficiales para pocesarlos y trabajarlos
+urls = ['https://www.costjalisco.org.mx/jsonprojects','https://obrastrasparencia.jalisco.gob.mx/secip/obrastransparencia','https://api.datos.gob.mx/v1/proyectos-opa']
